@@ -1,0 +1,10 @@
+POST /scans/88704d94-f08c-4263-9746-026f866320e2/photos HTTP/1.1
+Host: localhost:5100
+Content-Type: multipart/form-data; boundary=t2WfiGZWZLFws63eSgd-YfHPy/.9ef_VGOTqs1nLYC3-.G7lBLyr3/.SLpSGmwuP9XcOt8
+User-Agent: calaRN/1 CFNetwork/808.2.16 Darwin/16.3.0
+Connection: keep-alive
+Accept: application/json
+Accept-Language: en-us
+Authorization: Token fe11f6ef-5e8b-404b-a9fe-a5f4670ffd98
+Accept-Encoding: gzip, deflate
+Content-Length: 150391
